@@ -1,2 +1,2 @@
 # google-webpage
-first html css assignment of the odin project
+google frontpage built using basic html and css
